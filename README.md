@@ -1,4 +1,4 @@
-# ApkOnlone Android online emulator
+# ApkOnline Android online emulator
 
 This is a demo about how to write a web browser extensions using the ApkOnline android online emulator.
 
